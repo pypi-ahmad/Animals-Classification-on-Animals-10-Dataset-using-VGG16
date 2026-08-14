@@ -279,3 +279,5 @@ Realistic improvements implied by current implementation:
 - Add stronger tests for real checkpoint load path (non-mocked file path test).
 - Add metric value-range assertions in training integration tests.
 - Pin dependency versions for reproducible environments.
+
+<p align="center">Made with ❤️ by Ahmad Mujtaba</p>
